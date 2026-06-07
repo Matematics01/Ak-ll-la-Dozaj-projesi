@@ -251,7 +251,7 @@ Projede harici veri seti kullanılmamıştır. Tüm parametreler farmakokinetik 
 - Yıldırım, R. (2016). *Diferansiyel Denklemler ve Uygulamaları.*
 - Bozkurt, İ. (2019). *Nümerik Analiz.*
 - Gündüz, N. (2018). *Matematiksel Analiz I.*
-- NumPy Geliştirme Ekibi. (2024). *NumPy Kullanıcı Kılavuzu.* https://numpy.org/doc/
-- Matplotlib Geliştirme Ekibi. (2024). *Matplotlib: Python ile Veri Görselleştirme.* https://matplotlib.org/stable/
-- SymPy Geliştirme Ekibi. (2024). *SymPy: Python ile Sembolik Matematik.* https://docs.sympy.org/
+- NumPy Geliştirme Ekibi. (2024). *NumPy Kullanıcı Kılavuzu.* 
+- Matplotlib Geliştirme Ekibi. (2024). *Matplotlib: Python ile Veri Görselleştirme.* 
+- SymPy Geliştirme Ekibi. (2024). *SymPy: Python ile Sembolik Matematik.*
 - Erdoğan, H., & Yılmaz, T. (2022). *Python ile Bilimsel Hesaplama: NumPy, SciPy, Matplotlib.*
